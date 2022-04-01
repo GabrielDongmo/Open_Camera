@@ -16,7 +16,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/cameraButton"
-        app:layout_constraintVertical_bias="0.251" />
+        app:layout_constraintVertical_bias="0.411" />
 
     <Button
         android:id="@+id/cameraButton"
@@ -28,7 +28,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView"
-        app:layout_constraintVertical_bias="0.251" />
+        app:layout_constraintVertical_bias="0.172" />
 
     <ImageView
         android:id="@+id/imageView"
@@ -40,6 +40,6 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.437" />
+        app:layout_constraintVertical_bias="0.296" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

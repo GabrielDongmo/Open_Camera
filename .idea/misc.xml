@@ -3,9 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/ghenr/AndroidStudioProjects/openCamera/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ghenr/AndroidStudioProjects/openCamera/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
         <entry key="..\:/Users/ghenr/AndroidStudioProjects/openCamera/app/src/main/res/layout/fileprovider.xml" value="0.1" />
         <entry key="..\:/Users/ghenr/AndroidStudioProjects/openCamera/app/src/main/res/menu/add_photo.xml" value="0.1" />
+        <entry key="..\:/Users/ghenr/AndroidStudioProjects/openCamera/app/src/main/res/menu/popup_photo_menu.xml" value="0.2" />
       </map>
     </option>
   </component>
